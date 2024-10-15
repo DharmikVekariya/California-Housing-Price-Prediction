@@ -21,7 +21,7 @@ The California Housing dataset contains information about various features of ho
 
 ## Dataset
 
-The dataset used in this project is sourced from the kaggle. The target variable is `median_house_value`.
+The dataset used in this project is sourced from the [kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices). The target variable is `median_house_value`.
 
 ## Features
 
@@ -55,7 +55,7 @@ To run the project, you need the following dependencies:
 
 ## Model Performance
 
-The Random Forest Regressor achieved an accuracy of 81.5% on the test dataset. This performance indicates a reliable model for predicting housing prices in California based on the input features.
+The Random Forest Regressor achieved an accuracy of 82.72% on the test dataset. This performance indicates a reliable model for predicting housing prices in California based on the input features.
 
 ## Contact
 
